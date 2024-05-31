@@ -1,0 +1,15 @@
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\bin\Debug\net8.0\NossosPets.exe
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\bin\Debug\net8.0\NossosPets.deps.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\bin\Debug\net8.0\NossosPets.runtimeconfig.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\bin\Debug\net8.0\NossosPets.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\bin\Debug\net8.0\NossosPets.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.AssemblyInfoInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.AssemblyInfo.cs
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.sourcelink.json
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\refint\NossosPets.dll
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.pdb
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\NossosPets.genruntimeconfig.cache
+C:\Users\Douglas Soares\Documents\Projetos\Learn\CsharpProjects\ProjetosGuiados-MicrosoftLearn\NossosPets\obj\Debug\net8.0\ref\NossosPets.dll
